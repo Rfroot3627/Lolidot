@@ -7,7 +7,7 @@
 </p>
 
 ## About this fork
-I forked the Godot engine and rebranded the fork,<p>
+I forked the Godot Engine and rebranded the fork,<p>
 for the following reasons:<p>
 - For supply chain security, against possible license change of the upstream to enforce woking, or possible sanctions that disables us from forking the engine at the time when it happens.
 - For faster merging upstream pull requests.
@@ -15,7 +15,7 @@ for the following reasons:<p>
 
 ## 2D and 3D cross-platform game engine
 
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
+**A fork of [Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
 comprehensive set of [common tools](https://godotengine.org/features), so that
 users can focus on making games without having to reinvent the wheel. Games can
