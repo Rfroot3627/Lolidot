@@ -6,6 +6,13 @@
   </a>
 </p>
 
+## About this fork
+I forked the Godot engine and rebranded the fork,<p>
+for the following reasons:<p>
+- For supply chain security, against possible license change of the upstream to enforce woking, or possible sanctions that disables us from forking the engine at the time when it happens.
+- For faster merging upstream pull requests.
+- For improving the core of the engine, e.g. implementation of signals in C#.
+
 ## 2D and 3D cross-platform game engine
 
 **[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
